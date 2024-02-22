@@ -1,0 +1,2 @@
+class UserN < ActiveRecordN
+end
